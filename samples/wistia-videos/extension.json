@@ -9,7 +9,7 @@
         "id": "serviceUri",
         "type": "Symbol",
         "name": "Lambda Function URL",
-        "required": true
+        "default": "https://honestpaws.netlify.com/.netlify/functions/wistia-videos"
       }
     ]
   }
